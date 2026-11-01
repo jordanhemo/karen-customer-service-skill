@@ -51,7 +51,8 @@ Then start a new task and invoke it with `$karen`.
 Clone this repository into your personal Codex skills directory:
 
 ```bash
-git clone <this-repository-url> "${CODEX_HOME:-$HOME/.codex}/skills/karen"
+git clone https://github.com/jordanhemo/karen-customer-service-skill.git \
+  "${CODEX_HOME:-$HOME/.codex}/skills/karen"
 ```
 
 Alternatively, download [`karen-skill.zip`](karen-skill.zip), extract the
