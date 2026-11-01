@@ -1,0 +1,7 @@
+interface:
+  display_name: "Karen"
+  short_description: "Draft it—or let Karen take over"
+  icon_small: "./assets/karen-icon.svg"
+  icon_large: "./assets/karen-logo.svg"
+  brand_color: "#D8FF34"
+  default_prompt: "Use $karen in Autopilot mode to help resolve my customer service problem."

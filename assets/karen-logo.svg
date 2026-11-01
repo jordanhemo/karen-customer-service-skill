@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400">
+  <rect width="1200" height="400" fill="#F4F0E8"/>
+  <rect x="22" y="22" width="1156" height="356" fill="#D8FF34" stroke="#171717" stroke-width="14"/>
+  <text x="70" y="270" font-family="Arial Black,Arial,sans-serif" font-size="240" font-weight="900" letter-spacing="-18" fill="#171717">KAREN</text>
+  <circle cx="1090" cy="245" r="34" fill="#FF4D7D"/>
+</svg>
